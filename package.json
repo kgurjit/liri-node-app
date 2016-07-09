@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgurjit/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgurjit/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/kgurjit/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  }
+}
